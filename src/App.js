@@ -105,14 +105,14 @@ function App() {
                         <i className="material-icons">&#xE147;</i>
                         <span>Create New User</span>
                       </a>
-                      <a
+                      {/* <a
                         href="#deleteEmployeeModal"
                         className="btn btn-danger"
                         data-toggle="modal"
                       >
                         <i className="material-icons">&#xE15C;</i>{' '}
                         <span>Delete</span>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>
